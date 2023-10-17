@@ -26,3 +26,4 @@ def lambda_handler(event, context):
 
             #ec2.delete_snapshot(SnapshotId=snapshot_id)
             #print(f"Deleted stale snapshot {snapshot_id}")
+            hello
